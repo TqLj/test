@@ -2,7 +2,7 @@
 title = "六度空间"
 
 [cdn]
-npm = "https://cdn.jsdelivr.net/npm/6d/"
+npm = "//localhost:6699/"
 img = ""
 site = ""
 js = ""
